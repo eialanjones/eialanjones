@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=190&section=header&text=Alan%20Jones%20Rios&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CTO%20%26%20Co-founder%20%40%20Mentorfy&descAlignY=56&descSize=18" alt="Alan Jones Rios" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=190&section=header&text=Alan%20Jones%20Rios&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CTO%20%C2%B7%20Co-founder%20%40%20Mentorfy&descAlignY=56&descSize=18" alt="Alan Jones Rios" />
 </p>
 
 <p align="center">
@@ -37,13 +37,9 @@
 > Most of my day to day work lives in private company repositories.
 > The contribution graph below includes that private activity.
 
+<!-- Snake animation (enable when GitHub Actions is available):
 ### 🐍 Contributions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eialanjones&bg_color=0d1117&color=a78bfa&line=7C3AED&point=2563EB&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="Contribution graph" />
-</p>
-
-<!-- Snake animation (enable when GitHub Actions is available):
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eialanjones/eialanjones/output/github-snake-dark.svg" />
