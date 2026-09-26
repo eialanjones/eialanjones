@@ -40,12 +40,18 @@
 ### 🐍 Contributions
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eialanjones&bg_color=0d1117&color=a78bfa&line=7C3AED&point=2563EB&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="Contribution graph" />
+</p>
+
+<!-- Snake animation (enable when GitHub Actions is available):
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eialanjones/eialanjones/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eialanjones/eialanjones/output/github-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/eialanjones/eialanjones/output/github-snake.svg" />
   </picture>
 </p>
+-->
 
 <details>
   <summary><b>📜 Earlier work (mobile & .NET)</b></summary>
